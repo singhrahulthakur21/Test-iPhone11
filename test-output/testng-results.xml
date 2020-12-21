@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46273" started-at="2020-12-20T18:38:33 SGT" finished-at="2020-12-20T18:39:19 SGT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46273" started-at="2020-12-20T18:38:33 SGT" finished-at="2020-12-20T18:39:19 SGT">
+      <class name="com.iphone11.TestCase.PriceComparisionTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iphone11.TestCase.PriceComparisionTest@26aa12dd]" name="setUp" is-config="true" duration-ms="8139" started-at="2020-12-20T18:38:33 SGT" finished-at="2020-12-20T18:38:41 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.iphone11.TestCase.PriceComparisionTest@26aa12dd]" name="Test1" duration-ms="36978" started-at="2020-12-20T18:38:41 SGT" finished-at="2020-12-20T18:39:18 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iphone11.TestCase.PriceComparisionTest@26aa12dd]" name="tearDown" is-config="true" duration-ms="1094" started-at="2020-12-20T18:39:18 SGT" finished-at="2020-12-20T18:39:19 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iphone11.TestCase.PriceComparisionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
